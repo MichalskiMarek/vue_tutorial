@@ -78,7 +78,7 @@
     }
 
     .container {
-        box-shadow: 0px 0px 40px lightgray;
+        box-shadow: 0 0 40px lightgray;
     }
 
     input {
